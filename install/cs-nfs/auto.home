@@ -1,0 +1,2 @@
+*	-fstype=nfs,rw,nolock,hard cs-nfs.stuy.edu:/home/&
+
